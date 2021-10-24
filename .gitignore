@@ -1,6 +1,8 @@
 .idea/
+.vscode/
 .classpath
 .project
+.gitignore
 
 ### Java ###
 # Compiled class file
